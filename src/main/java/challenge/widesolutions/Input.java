@@ -14,9 +14,6 @@ public class Input {
     public Input(List<String> lines) {
         //parse each line and create Input
         this.lines = lines;
-
-
-
     }
 
 
