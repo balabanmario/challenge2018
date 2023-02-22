@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Trainer</title>
+    <link>https://github.com/balabanmario/challenge2018/edit/master/feed.xml</link>
+    <description>The 123 on podCasts, podCasters and podCasting. podCast123 is a show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting</description>
+    <language>en-us</language>
+    <copyright>Copyright 2022</copyright>
+    <pubDate>Mon, 07 Feb 2022 08:01:42 GMT</pubDate>
+    <docs>http://challenge.challenge.challenge.edu/tech/rss</docs>
+    <webMaster>info@challenge.com</webMaster>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">info@trainer123</itunes:author>
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">trainer123 is a show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">trainer123 is a show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting. Each show we interview a different Podcaster to find out what Podcasts they are listening to, what their show is about, what they are using to create their Podcast and what advice they have for other Podcasters or those looking to become a Podcaster. Plus we have news, notes and tech tips for Podcasting.</itunes:summary>
+    <itunes:owner xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <itunes:name>Train Me</itunes:name>
+      <itunes:email>rob@trainer123.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+    <itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="https://www.clipartmax.com/png/middle/338-3382614_small-yin-and-yang-symbol.png" />
+    <itunes:category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Technology">
+      <itunes:category text="Podcasting" />
+    </itunes:category>
+    <dc:date>2022-02-07T08:01:42Z</dc:date>
+    <dc:language>en-us</dc:language>
+    <dc:rights>Copyright 2022</dc:rights>
+    <item>
+      <title>Block Akkusative-2.27.15.19.57</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/03ddcb54-d34f-4030-825e-bcc6b2d3c357.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Block-Akkusativ-Unbestimmte Artikel</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Block-Akkusativ-Unbestimmte Artikel</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:21</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Akkusative Unbestimmte Artikel Plural</itunes:keywords>
+      <description>Block-Akkusativ-Unbestimmte Artikel</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/03ddcb54-d34f-4030-825e-bcc6b2d3c357.webm?raw=true" length="496970" type="audio/mpeg" />
+      <pubDate>Sun, 27 Feb 2022 14:20:07 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/03ddcb54-d34f-4030-825e-bcc6b2d3c357.webm?raw=true</guid>
+      <dc:date>2022-02-27T14:20:07Z</dc:date>
+    </item>
+    <item>
+      <title>Block Akkusative-2.27.15.22.57</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/fa0c93aa-c385-4892-97a7-d4e6a400ca38.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Block-Akkusativ-Unbestimmte Artikel-1</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Block-Akkusativ-Unbestimmte Artikel-1</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:19</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Block-Akkusativ-Unbestimmte Artikel-1</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/fa0c93aa-c385-4892-97a7-d4e6a400ca38.webm?raw=true" length="464200" type="audio/mpeg" />
+      <pubDate>Sun, 27 Feb 2022 14:23:02 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/fa0c93aa-c385-4892-97a7-d4e6a400ca38.webm?raw=true</guid>
+      <dc:date>2022-02-27T14:23:02Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-3.6.9.23.12</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/226eba59-94c4-4bae-b258-6e97cd880bd4.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Im Schnitt benötigen die deutschen 44 Minuten zur und von der Arbeit</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Im Schnitt benötigen die deutschen 44 Minuten zur und von der Arbeit</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:07</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Im Schnitt benötigen die deutschen 44 Minuten zur und von der Arbeit</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/226eba59-94c4-4bae-b258-6e97cd880bd4.webm?raw=true" length="171936" type="audio/mpeg" />
+      <pubDate>Sun, 06 Mar 2022 08:23:16 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/226eba59-94c4-4bae-b258-6e97cd880bd4.webm?raw=true</guid>
+      <dc:date>2022-03-06T08:23:16Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-4.2.22.10.52</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/3716e7dc-d3ac-451f-ad38-c891539b6a82.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Um das Ansteckung Risiko zu minimieren und mehr Abstand zu schaffen würden viel Orts Pop-up Radwege angelegt</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Um das Ansteckung Risiko zu minimieren und mehr Abstand zu schaffen würden viel Orts Pop-up Radwege angelegt</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:04</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Um das Ansteckung Risiko zu minimieren und mehr Abstand zu schaffen würden viel Orts Pop-up Radwege angelegt</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/3716e7dc-d3ac-451f-ad38-c891539b6a82.webm?raw=true" length="242438" type="audio/mpeg" />
+      <pubDate>Sat, 02 Apr 2022 20:10:58 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/3716e7dc-d3ac-451f-ad38-c891539b6a82.webm?raw=true</guid>
+      <dc:date>2022-04-02T20:10:58Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-4.2.22.11.16</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a430a1ac-cd79-4efa-993b-85958dfec2cd.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Allein in Berlin waren das 22 km neue Wege für Radfahrer</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Allein in Berlin waren das 22 km neue Wege für Radfahrer</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:04</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Allein in Berlin waren das 22 km neue Wege für Radfahrer</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a430a1ac-cd79-4efa-993b-85958dfec2cd.webm?raw=true" length="150672" type="audio/mpeg" />
+      <pubDate>Sat, 02 Apr 2022 20:11:23 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a430a1ac-cd79-4efa-993b-85958dfec2cd.webm?raw=true</guid>
+      <dc:date>2022-04-02T20:11:23Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-4.2.22.11.47</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a5b0441d-af39-46d1-8a8a-b00f36076476.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Und das Angebot würde gerne angenommen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Und das Angebot würde gerne angenommen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:04</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Und das Angebot würde gerne angenommen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a5b0441d-af39-46d1-8a8a-b00f36076476.webm?raw=true" length="90955" type="audio/mpeg" />
+      <pubDate>Sat, 02 Apr 2022 20:11:52 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a5b0441d-af39-46d1-8a8a-b00f36076476.webm?raw=true</guid>
+      <dc:date>2022-04-02T20:11:52Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/28cae952-07d8-4b84-b0ea-b5620a537bc9.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Im erste Halbjahr 2020 wurde im Vergleich zum Vorjahr 26% mehr Rad Verkehr gemessen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Im erste Halbjahr 2020 wurde im Vergleich zum Vorjahr 26% mehr Rad Verkehr gemessen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:09</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Im erste Halbjahr 2020 wurde im Vergleich zum Vorjahr 26% mehr Rad Verkehr gemessen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/28cae952-07d8-4b84-b0ea-b5620a537bc9.webm?raw=true" length="217842" type="audio/mpeg" />
+      <pubDate>Mon, 11 Apr 2022 18:10:50 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/28cae952-07d8-4b84-b0ea-b5620a537bc9.webm?raw=true</guid>
+      <dc:date>2022-04-11T18:10:50Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/2a279ea6-a4ab-49e5-a7da-dc5a42459219.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Der im Ukraine-Konflikt schwer beschädigte russische Kreuzer "Moskwa" ist im Schwarzen Meer untergegangen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Der im Ukraine-Konflikt schwer beschädigte russische Kreuzer "Moskwa" ist im Schwarzen Meer untergegangen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Der im Ukraine-Konflikt schwer beschädigte russische Kreuzer "Moskwa" ist im Schwarzen Meer untergegangen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/2a279ea6-a4ab-49e5-a7da-dc5a42459219.mp3?raw=true" length="37152" type="audio/mpeg" />
+      <pubDate>Sat, 23 Apr 2022 16:25:21 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/2a279ea6-a4ab-49e5-a7da-dc5a42459219.mp3?raw=true</guid>
+      <dc:date>2022-04-23T16:25:21Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/582ee9b2-5d08-4e5f-94e8-486ea4ffccaa.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Das teilte am Donnerstagabend Russlands Verteidigungsministerium mit</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Das teilte am Donnerstagabend Russlands Verteidigungsministerium mit</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Das teilte am Donnerstagabend Russlands Verteidigungsministerium mit</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/582ee9b2-5d08-4e5f-94e8-486ea4ffccaa.mp3?raw=true" length="23904" type="audio/mpeg" />
+      <pubDate>Sat, 23 Apr 2022 16:29:48 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/582ee9b2-5d08-4e5f-94e8-486ea4ffccaa.mp3?raw=true</guid>
+      <dc:date>2022-04-23T16:29:48Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/4002591c-c7cd-4969-a945-a43ce80fbf79.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als Grund wurden Schäden am Rumpf des Schiffes genannt, die durch einen Brand infolge der Detonation von Munition an Bord entstanden seien, so die russische Darstellung</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als Grund wurden Schäden am Rumpf des Schiffes genannt, die durch einen Brand infolge der Detonation von Munition an Bord entstanden seien, so die russische Darstellung</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Als Grund wurden Schäden am Rumpf des Schiffes genannt, die durch einen Brand infolge der Detonation von Munition an Bord entstanden seien, so die russische Darstellung</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/4002591c-c7cd-4969-a945-a43ce80fbf79.mp3?raw=true" length="57120" type="audio/mpeg" />
+      <pubDate>Sat, 23 Apr 2022 16:59:37 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/4002591c-c7cd-4969-a945-a43ce80fbf79.mp3?raw=true</guid>
+      <dc:date>2022-04-23T16:59:37Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/c982def2-1e6a-425a-92b5-1c5904fb1511.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Der Raketenkreuzer "Moskwa" - das wichtigste Kriegsschiff der russischen Schwarzmeerflotte - ist schwer beschädigt</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Der Raketenkreuzer "Moskwa" - das wichtigste Kriegsschiff der russischen Schwarzmeerflotte - ist schwer beschädigt</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Der Raketenkreuzer "Moskwa" - das wichtigste Kriegsschiff der russischen Schwarzmeerflotte - ist schwer beschädigt</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/c982def2-1e6a-425a-92b5-1c5904fb1511.mp3?raw=true" length="38016" type="audio/mpeg" />
+      <pubDate>Sat, 23 Apr 2022 17:30:04 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/c982def2-1e6a-425a-92b5-1c5904fb1511.mp3?raw=true</guid>
+      <dc:date>2022-04-23T17:30:04Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/e7974a60-27f6-41ac-896d-0d15d64eb492.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Es war einmal ein schönes Mädchen, das aber
+nicht über einen halben Daumen groß war,
+weshalb es Däumelinchen genannt wurde</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Es war einmal ein schönes Mädchen, das aber
+nicht über einen halben Daumen groß war,
+weshalb es Däumelinchen genannt wurde</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Es war einmal ein schönes Mädchen, das aber
+nicht über einen halben Daumen groß war,
+weshalb es Däumelinchen genannt wurde</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/e7974a60-27f6-41ac-896d-0d15d64eb492.mp3?raw=true" length="38688" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:06:09 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/e7974a60-27f6-41ac-896d-0d15d64eb492.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:06:09Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/7f11ec18-7c4d-476d-ba0d-374e7fe1508e.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Nachts schlief Däumelinchen in ihrem Bett, das aus
+einer mit weichen Daunen gefütterten Walnußschale
+bestand, und deckte sich mit Blättern</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Nachts schlief Däumelinchen in ihrem Bett, das aus
+einer mit weichen Daunen gefütterten Walnußschale
+bestand, und deckte sich mit Blättern</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Nachts schlief Däumelinchen in ihrem Bett, das aus
+einer mit weichen Daunen gefütterten Walnußschale
+bestand, und deckte sich mit Blättern</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/7f11ec18-7c4d-476d-ba0d-374e7fe1508e.mp3?raw=true" length="46464" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:06:20 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/7f11ec18-7c4d-476d-ba0d-374e7fe1508e.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:06:20Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/779e44ef-a4a0-41dc-8173-940d66f3041e.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Eines Tages sah eine große Kröte das schlafende
+Mädchen und dachte, es wäre eine gute Frau für
+ihren Sohn</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Eines Tages sah eine große Kröte das schlafende
+Mädchen und dachte, es wäre eine gute Frau für
+ihren Sohn</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Eines Tages sah eine große Kröte das schlafende
+Mädchen und dachte, es wäre eine gute Frau für
+ihren Sohn</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/779e44ef-a4a0-41dc-8173-940d66f3041e.mp3?raw=true" length="36288" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:06:31 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/779e44ef-a4a0-41dc-8173-940d66f3041e.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:06:31Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/4796082d-5f7e-4e39-9599-f686048c8201.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">So beschloss sie, es zu entführen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">So beschloss sie, es zu entführen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>So beschloss sie, es zu entführen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/4796082d-5f7e-4e39-9599-f686048c8201.mp3?raw=true" length="12672" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:06:41 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/4796082d-5f7e-4e39-9599-f686048c8201.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:06:41Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/4f1f6279-68f4-47e6-94f2-c33f636eaeec.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als
+Däumelinchen erwachte, bekam sie sehr
+Angst</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als
+Däumelinchen erwachte, bekam sie sehr
+Angst</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Als
+Däumelinchen erwachte, bekam sie sehr
+Angst</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/4f1f6279-68f4-47e6-94f2-c33f636eaeec.mp3?raw=true" length="18336" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:06:52 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/4f1f6279-68f4-47e6-94f2-c33f636eaeec.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:06:52Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/af11fffc-9e01-4f04-bb76-029db1340069.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">„Mutter, sie ist so hässlich!“ quakte der
+Frosch entsetzt und versteckte sich im
+Reet</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">„Mutter, sie ist so hässlich!“ quakte der
+Frosch entsetzt und versteckte sich im
+Reet</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>„Mutter, sie ist so hässlich!“ quakte der
+Frosch entsetzt und versteckte sich im
+Reet</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/af11fffc-9e01-4f04-bb76-029db1340069.mp3?raw=true" length="32832" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:07:04 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/af11fffc-9e01-4f04-bb76-029db1340069.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:07:04Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/fe0b6e1b-81a3-4e5f-8f3f-b21679aae5e6.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Seine Mutter sprang
+ihm nach</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Seine Mutter sprang
+ihm nach</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Seine Mutter sprang
+ihm nach</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/fe0b6e1b-81a3-4e5f-8f3f-b21679aae5e6.mp3?raw=true" length="10848" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:07:17 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/fe0b6e1b-81a3-4e5f-8f3f-b21679aae5e6.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:07:17Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/fbfd2dd9-1c54-415e-add6-dca8053556b5.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als Däumelinchen wieder allein war, füllten sich
+seine Augen mit Tränen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als Däumelinchen wieder allein war, füllten sich
+seine Augen mit Tränen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Als Däumelinchen wieder allein war, füllten sich
+seine Augen mit Tränen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/fbfd2dd9-1c54-415e-add6-dca8053556b5.mp3?raw=true" length="25824" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:08:02 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/fbfd2dd9-1c54-415e-add6-dca8053556b5.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:08:02Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/41b4a1e3-e6e4-4362-bf5a-816a40a4cb7a.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Plötzlich tauchte an
+seiner Seite ein bunter Schmetterling auf</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Plötzlich tauchte an
+seiner Seite ein bunter Schmetterling auf</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Plötzlich tauchte an
+seiner Seite ein bunter Schmetterling auf</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/41b4a1e3-e6e4-4362-bf5a-816a40a4cb7a.mp3?raw=true" length="19680" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:08:14 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/41b4a1e3-e6e4-4362-bf5a-816a40a4cb7a.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:08:14Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/8e255155-527a-46fe-99b9-e39fa3c0090b.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">„Ich kenne nicht
+den Weg nach Hause</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">„Ich kenne nicht
+den Weg nach Hause</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>„Ich kenne nicht
+den Weg nach Hause</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/8e255155-527a-46fe-99b9-e39fa3c0090b.mp3?raw=true" length="11904" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:08:45 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/8e255155-527a-46fe-99b9-e39fa3c0090b.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:08:45Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a860d1fb-2a9f-4dd0-afc0-cdddaf78ef0d.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">"
+Der Schmetterling lächelte, band einen Gürtel um
+seinen Leib und sagte dem Mädchen, sich
+festzuhalten</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">"
+Der Schmetterling lächelte, band einen Gürtel um
+seinen Leib und sagte dem Mädchen, sich
+festzuhalten</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>"
+Der Schmetterling lächelte, band einen Gürtel um
+seinen Leib und sagte dem Mädchen, sich
+festzuhalten</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a860d1fb-2a9f-4dd0-afc0-cdddaf78ef0d.mp3?raw=true" length="33792" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:08:57 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a860d1fb-2a9f-4dd0-afc0-cdddaf78ef0d.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:08:57Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/86536058-b261-4973-a26e-11ac031a1f50.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Bald fing er an, das Blatt und
+Däumelinchen, das darauf saß, zum Ufer
+zu ziehen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Bald fing er an, das Blatt und
+Däumelinchen, das darauf saß, zum Ufer
+zu ziehen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Bald fing er an, das Blatt und
+Däumelinchen, das darauf saß, zum Ufer
+zu ziehen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/86536058-b261-4973-a26e-11ac031a1f50.mp3?raw=true" length="31680" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:09:09 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/86536058-b261-4973-a26e-11ac031a1f50.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:09:09Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/85da5617-2814-4fc2-a60c-77eb7d6efc44.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Plötzlich tauchte ein großer Maikäfer auf</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Plötzlich tauchte ein großer Maikäfer auf</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Plötzlich tauchte ein großer Maikäfer auf</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/85da5617-2814-4fc2-a60c-77eb7d6efc44.mp3?raw=true" length="15552" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:09:20 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/85da5617-2814-4fc2-a60c-77eb7d6efc44.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:09:20Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a7686e34-94d0-4112-a04f-30943c798498.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Er
+schnappte sich das Mädchen und flog mit ihm
+auf einen Baum</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Er
+schnappte sich das Mädchen und flog mit ihm
+auf einen Baum</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Er
+schnappte sich das Mädchen und flog mit ihm
+auf einen Baum</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a7686e34-94d0-4112-a04f-30943c798498.mp3?raw=true" length="20448" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:09:31 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a7686e34-94d0-4112-a04f-30943c798498.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:09:31Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/8feba740-d61e-4fd9-9c9d-db86894993fe.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Summ, summ,“ summten die anderen Käfer
+voller Geringschätzung</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Summ, summ,“ summten die anderen Käfer
+voller Geringschätzung</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Summ, summ,“ summten die anderen Käfer
+voller Geringschätzung</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/8feba740-d61e-4fd9-9c9d-db86894993fe.mp3?raw=true" length="25824" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:09:43 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/8feba740-d61e-4fd9-9c9d-db86894993fe.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:09:43Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/4e92ca4b-33b5-40c3-8d88-1bd4cd9fe6e2.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">„Sie ist keine gute Frau für dich</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">„Sie ist keine gute Frau für dich</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>„Sie ist keine gute Frau für dich</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/4e92ca4b-33b5-40c3-8d88-1bd4cd9fe6e2.mp3?raw=true" length="12288" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:09:54 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/4e92ca4b-33b5-40c3-8d88-1bd4cd9fe6e2.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:09:54Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/159b7f81-66d0-4923-be8f-ee0063b147bd.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sie hat nicht genug Flügel und Beine!" Der Maikäfer ließ das Mädchen auf einer Weide und flog weg</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sie hat nicht genug Flügel und Beine!" Der Maikäfer ließ das Mädchen auf einer Weide
+und flog weg</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Sie hat nicht genug Flügel und Beine!" Der Maikäfer ließ das Mädchen auf einer Weide und flog weg</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/159b7f81-66d0-4923-be8f-ee0063b147bd.mp3?raw=true" length="33984" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:10:05 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/159b7f81-66d0-4923-be8f-ee0063b147bd.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:10:05Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/c4aefe9f-9f61-43c1-a186-fa3ee8e75403.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Jetzt lebte Däumelinchen allein</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Jetzt lebte Däumelinchen allein</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Jetzt lebte Däumelinchen allein</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/c4aefe9f-9f61-43c1-a186-fa3ee8e75403.mp3?raw=true" length="12768" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:10:16 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/c4aefe9f-9f61-43c1-a186-fa3ee8e75403.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:10:16Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a8ce5c57-7f4f-418a-b63c-b3db4e450bf6.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sie trank Nektar und Tautropfen und schlief
+unter einem Klettenblatt</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sie trank Nektar und Tautropfen und schlief
+unter einem Klettenblatt</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Sie trank Nektar und Tautropfen und schlief
+unter einem Klettenblatt</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a8ce5c57-7f4f-418a-b63c-b3db4e450bf6.mp3?raw=true" length="22368" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:10:28 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a8ce5c57-7f4f-418a-b63c-b3db4e450bf6.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:10:28Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a2441c08-517a-48ce-b5ac-68cbce0725a0.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Bald kam auch der harte Winter</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Bald kam auch der harte Winter</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Bald kam auch der harte Winter</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a2441c08-517a-48ce-b5ac-68cbce0725a0.mp3?raw=true" length="11712" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:10:40 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a2441c08-517a-48ce-b5ac-68cbce0725a0.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:10:40Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/7903dc6d-3c76-4e24-82a6-e28eb34ec66e.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als sie Obdach
+suchte, fand sie ein Feldmauseloch</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als sie Obdach
+suchte, fand sie ein Feldmauseloch</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Als sie Obdach
+suchte, fand sie ein Feldmauseloch</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/7903dc6d-3c76-4e24-82a6-e28eb34ec66e.mp3?raw=true" length="18336" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:10:50 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/7903dc6d-3c76-4e24-82a6-e28eb34ec66e.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:10:50Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/cce9435c-ec5d-44b4-9dbf-5e2d08404b57.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Die Herrin
+ließ sie herein</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Die Herrin
+ließ sie herein</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Die Herrin
+ließ sie herein</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/cce9435c-ec5d-44b4-9dbf-5e2d08404b57.mp3?raw=true" length="10368" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:11:02 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/cce9435c-ec5d-44b4-9dbf-5e2d08404b57.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:11:02Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/b6ce524c-bf85-4271-a304-a00ec938a7d9.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Eines Tages kam ein schwarzes
+Maulwurf bei Däumelinchen und der Feldmaus
+zu Besuch</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Eines Tages kam ein schwarzes
+Maulwurf bei Däumelinchen und der Feldmaus
+zu Besuch</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Eines Tages kam ein schwarzes
+Maulwurf bei Däumelinchen und der Feldmaus
+zu Besuch</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/b6ce524c-bf85-4271-a304-a00ec938a7d9.mp3?raw=true" length="28224" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:11:14 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/b6ce524c-bf85-4271-a304-a00ec938a7d9.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:11:14Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/0daf7879-70fb-46da-a450-f57f64a83134.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Den ganzen Abend erzählte er
+langweilige und traurige Geschichten</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Den ganzen Abend erzählte er
+langweilige und traurige Geschichten</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Den ganzen Abend erzählte er
+langweilige und traurige Geschichten</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/0daf7879-70fb-46da-a450-f57f64a83134.mp3?raw=true" length="22176" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:11:26 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/0daf7879-70fb-46da-a450-f57f64a83134.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:11:26Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/6cd724fd-bfbd-45f4-a276-28cce0b302db.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Schließlich lud der Maulwurf seine
+Nachbarinnen zu ihm ein</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Schließlich lud der Maulwurf seine
+Nachbarinnen zu ihm ein</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Schließlich lud der Maulwurf seine
+Nachbarinnen zu ihm ein</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/6cd724fd-bfbd-45f4-a276-28cce0b302db.mp3?raw=true" length="19200" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:11:37 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/6cd724fd-bfbd-45f4-a276-28cce0b302db.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:11:37Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/5b2a507b-b8ac-4e81-a0c0-4817188ccba0.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Den nächsten Tag, als die
+beiden im Dunkeln
+durch einen langen
+Gang zur Wohnung
+des Maulwurfs
+gingen, fanden sie
+eine tote Schwalbe</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Den nächsten Tag, als die
+beiden im Dunkeln
+durch einen langen
+Gang zur Wohnung
+des Maulwurfs
+gingen, fanden sie
+eine tote Schwalbe</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Den nächsten Tag, als die
+beiden im Dunkeln
+durch einen langen
+Gang zur Wohnung
+des Maulwurfs
+gingen, fanden sie
+eine tote Schwalbe</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/5b2a507b-b8ac-4e81-a0c0-4817188ccba0.mp3?raw=true" length="43776" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:11:50 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/5b2a507b-b8ac-4e81-a0c0-4817188ccba0.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:11:50Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a60e5ef4-629c-46bf-acd3-27fb3a4a68c4.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Diese erinnerte Däumelinchen an einen
+glücklichen, sonnigen Sommertag</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Diese erinnerte Däumelinchen an einen
+glücklichen, sonnigen Sommertag</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Diese erinnerte Däumelinchen an einen
+glücklichen, sonnigen Sommertag</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a60e5ef4-629c-46bf-acd3-27fb3a4a68c4.mp3?raw=true" length="23232" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:12:03 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a60e5ef4-629c-46bf-acd3-27fb3a4a68c4.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:12:03Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/5265bc54-f498-49c7-bdec-5f72a726b70e.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als es
+wieder im Mauseloch war, konnte es nicht
+schlafen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als es
+wieder im Mauseloch war, konnte es nicht
+schlafen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Als es
+wieder im Mauseloch war, konnte es nicht
+schlafen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/5265bc54-f498-49c7-bdec-5f72a726b70e.mp3?raw=true" length="19008" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:12:15 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/5265bc54-f498-49c7-bdec-5f72a726b70e.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:12:15Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/8d3d06c1-b9f8-4764-8436-c0e286cf809e.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Es schleichte raus und ging los zum
+Vogel</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Es schleichte raus und ging los zum
+Vogel</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Es schleichte raus und ging los zum
+Vogel</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/8d3d06c1-b9f8-4764-8436-c0e286cf809e.mp3?raw=true" length="14400" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:12:27 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/8d3d06c1-b9f8-4764-8436-c0e286cf809e.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:12:27Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/ecda4da7-50fe-48d4-bc3a-a0f6b51e070e.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Während es ihn umarmte, brach es in
+Tränen aus</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Während es ihn umarmte, brach es in
+Tränen aus</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Während es ihn umarmte, brach es in
+Tränen aus</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/ecda4da7-50fe-48d4-bc3a-a0f6b51e070e.mp3?raw=true" length="19008" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:12:38 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/ecda4da7-50fe-48d4-bc3a-a0f6b51e070e.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:12:38Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/d14b5ef4-1628-4456-8249-c8f2790cd0c9.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Plötzlich spürte es des Vogels
+Herzschlag</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Plötzlich spürte es des Vogels
+Herzschlag</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Plötzlich spürte es des Vogels
+Herzschlag</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/d14b5ef4-1628-4456-8249-c8f2790cd0c9.mp3?raw=true" length="16032" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:12:50 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/d14b5ef4-1628-4456-8249-c8f2790cd0c9.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:12:50Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/8864f7d3-149d-4ff5-9a0c-f0181f445e3c.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Die Schwalbe war doch nicht tot,
+sie war nur betäubt wegen der Kälte</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Die Schwalbe war doch nicht tot,
+sie war nur betäubt wegen der Kälte</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Die Schwalbe war doch nicht tot,
+sie war nur betäubt wegen der Kälte</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/8864f7d3-149d-4ff5-9a0c-f0181f445e3c.mp3?raw=true" length="24672" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:13:01 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/8864f7d3-149d-4ff5-9a0c-f0181f445e3c.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:13:01Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/58e7e47e-87ce-423a-837a-f8c33d645ab3.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Däumelinchen deckte den Vogel mit einer
+Decke aus Gras und fütterte ihn</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Däumelinchen deckte den Vogel mit einer
+Decke aus Gras und fütterte ihn</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Däumelinchen deckte den Vogel mit einer
+Decke aus Gras und fütterte ihn</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/58e7e47e-87ce-423a-837a-f8c33d645ab3.mp3?raw=true" length="24384" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:13:13 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/58e7e47e-87ce-423a-837a-f8c33d645ab3.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:13:13Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/18d40a39-148f-4d73-9103-523991911235.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Seit dem Tag
+kam es immer wieder heimlich zu seinem
+Freund, um ihn zu pflegen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Seit dem Tag
+kam es immer wieder heimlich zu seinem
+Freund, um ihn zu pflegen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Seit dem Tag
+kam es immer wieder heimlich zu seinem
+Freund, um ihn zu pflegen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/18d40a39-148f-4d73-9103-523991911235.mp3?raw=true" length="25536" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:13:24 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/18d40a39-148f-4d73-9103-523991911235.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:13:24Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/c4ca33c5-8d87-4dfd-8acd-1546931938ae.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sobald der Frühling zurückkehrte, kam die Schwalbe
+wieder zu Kräften</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sobald der Frühling zurückkehrte, kam die Schwalbe
+wieder zu Kräften</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Sobald der Frühling zurückkehrte, kam die Schwalbe
+wieder zu Kräften</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/c4ca33c5-8d87-4dfd-8acd-1546931938ae.mp3?raw=true" length="23328" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:13:36 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/c4ca33c5-8d87-4dfd-8acd-1546931938ae.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:13:36Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a678b717-1f4c-4cf1-9747-b54a9686bdce.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">„Flieg mit mir los, Däumelinchen!" sagte die Schwalbe
+und wollte wegfliegen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">„Flieg mit mir los, Däumelinchen!" sagte die Schwalbe
+und wollte wegfliegen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>„Flieg mit mir los, Däumelinchen!" sagte die Schwalbe
+und wollte wegfliegen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a678b717-1f4c-4cf1-9747-b54a9686bdce.mp3?raw=true" length="30048" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:13:49 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a678b717-1f4c-4cf1-9747-b54a9686bdce.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:13:49Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/612313a6-ecb9-45b6-96be-d2e23fe18c05.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">„Du wirst wieder auf der Weide
+sitzen und mit Schmetterlingen spielen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">„Du wirst wieder auf der Weide
+sitzen und mit Schmetterlingen spielen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>„Du wirst wieder auf der Weide
+sitzen und mit Schmetterlingen spielen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/612313a6-ecb9-45b6-96be-d2e23fe18c05.mp3?raw=true" length="20352" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:14:02 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/612313a6-ecb9-45b6-96be-d2e23fe18c05.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:14:02Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a6209c97-0d54-48fb-a2f9-b0c4e1ed3328.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">“
+„Ich würde gern mitkommen, ich kann meine
+Beschützerin aber nicht verlassen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">“
+„Ich würde gern mitkommen, ich kann meine
+Beschützerin aber nicht verlassen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>“
+„Ich würde gern mitkommen, ich kann meine
+Beschützerin aber nicht verlassen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a6209c97-0d54-48fb-a2f9-b0c4e1ed3328.mp3?raw=true" length="24576" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:14:14 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a6209c97-0d54-48fb-a2f9-b0c4e1ed3328.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:14:14Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/b88d1b1c-f0ee-49e3-88b0-e59b2bc7d275.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sie war so nett zu mir!"
+Die Schwalbe flatterte mit den Flügeln und flog weg</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Sie war so nett zu mir!"
+Die Schwalbe flatterte mit den Flügeln und flog weg</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Sie war so nett zu mir!"
+Die Schwalbe flatterte mit den Flügeln und flog weg</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/b88d1b1c-f0ee-49e3-88b0-e59b2bc7d275.mp3?raw=true" length="26304" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:14:26 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/b88d1b1c-f0ee-49e3-88b0-e59b2bc7d275.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:14:26Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/09c1aeac-b0e9-46af-a554-5bc538c8d8d1.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Bald
+sagte die Maus Däumelinchen, dass
+Herr Maulwurf um ihre Hand
+angehalten hatte</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Bald
+sagte die Maus Däumelinchen, dass
+Herr Maulwurf um ihre Hand
+angehalten hatte</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Bald
+sagte die Maus Däumelinchen, dass
+Herr Maulwurf um ihre Hand
+angehalten hatte</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/09c1aeac-b0e9-46af-a554-5bc538c8d8d1.mp3?raw=true" length="31392" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:14:40 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/09c1aeac-b0e9-46af-a554-5bc538c8d8d1.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:14:40Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/082909f5-7905-4fc0-8736-9f0b4032079f.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als es das hörte,
+lief Däumelinchen von zuhause
+weg</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Als es das hörte,
+lief Däumelinchen von zuhause
+weg</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Als es das hörte,
+lief Däumelinchen von zuhause
+weg</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/082909f5-7905-4fc0-8736-9f0b4032079f.mp3?raw=true" length="19968" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:14:54 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/082909f5-7905-4fc0-8736-9f0b4032079f.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:14:54Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/ec214651-d99f-40c5-952f-fa3c8e520aac.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Es wollte nicht Frau solch
+eines langweiligen Maulwurfs
+werden und den Rest seines
+Lebens unter der Erde
+verbringen, ohne
+Sonne und Blumen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Es wollte nicht Frau solch
+eines langweiligen Maulwurfs
+werden und den Rest seines
+Lebens unter der Erde
+verbringen, ohne
+Sonne und Blumen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Es wollte nicht Frau solch
+eines langweiligen Maulwurfs
+werden und den Rest seines
+Lebens unter der Erde
+verbringen, ohne
+Sonne und Blumen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/ec214651-d99f-40c5-952f-fa3c8e520aac.mp3?raw=true" length="45792" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:15:07 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/ec214651-d99f-40c5-952f-fa3c8e520aac.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:15:07Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/0910a54b-9a1e-4ce0-a687-ecd368755692.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Plötzlich hörte es eine bekannte Stimme:
+„Flieg mit mir, Flieg mit mir über dem Meer hinaus!</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Plötzlich hörte es eine bekannte Stimme:
+„Flieg mit mir, Flieg mit mir über dem Meer hinaus!</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Plötzlich hörte es eine bekannte Stimme:
+„Flieg mit mir, Flieg mit mir über dem Meer hinaus!</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/0910a54b-9a1e-4ce0-a687-ecd368755692.mp3?raw=true" length="34944" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:15:20 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/0910a54b-9a1e-4ce0-a687-ecd368755692.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:15:20Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/558933b8-377f-4979-84cb-93e175000c3d.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">"
+Diesmal achtete Daumelinchen auf die Drohungen
+der Maus nicht mehr</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">"
+Diesmal achtete Daumelinchen auf die Drohungen
+der Maus nicht mehr</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>"
+Diesmal achtete Daumelinchen auf die Drohungen
+der Maus nicht mehr</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/558933b8-377f-4979-84cb-93e175000c3d.mp3?raw=true" length="20928" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:15:33 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/558933b8-377f-4979-84cb-93e175000c3d.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:15:33Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/b16cd1ff-9f1a-4a60-a7f8-b7ebbc20de3b.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Es sprang auf des Vogels
+Rücken auf und sie flogen zusammen in die warmen
+Länder</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Es sprang auf des Vogels
+Rücken auf und sie flogen zusammen in die warmen
+Länder</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Es sprang auf des Vogels
+Rücken auf und sie flogen zusammen in die warmen
+Länder</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/b16cd1ff-9f1a-4a60-a7f8-b7ebbc20de3b.mp3?raw=true" length="25920" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:15:46 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/b16cd1ff-9f1a-4a60-a7f8-b7ebbc20de3b.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:15:46Z</dc:date>
+    </item>
+    <item>
+      <title>MarchenDaumelinchen-3.13.20.33.33</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/39941165-dd59-4706-816e-79c332feebbe.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Dort heiratete Däumelinchen den schönsten
+der Blumenelfen und sie lebten glücklich bis an
+ihr Lebensende</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Dort heiratete Däumelinchen den schönsten
+der Blumenelfen und sie lebten glücklich bis an
+ihr Lebensende</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Dort heiratete Däumelinchen den schönsten
+der Blumenelfen und sie lebten glücklich bis an
+ihr Lebensende</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/39941165-dd59-4706-816e-79c332feebbe.mp3?raw=true" length="33888" type="audio/mpeg" />
+      <pubDate>Mon, 09 May 2022 18:15:59 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/39941165-dd59-4706-816e-79c332feebbe.mp3?raw=true</guid>
+      <dc:date>2022-05-09T18:15:59Z</dc:date>
+    </item>
+    <item>
+      <title>Wissenheit-1.1.1.1</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/dce1cf9c-4102-42b6-ae7e-e8e75c5d8fb7.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Es gibt nur zwei Fehler die man auf dem Weg zur Wahrheit machen kann: Nicht den ganzen Weg gehen und nicht beginnen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Es gibt nur zwei Fehler die man auf dem Weg zur Wahrheit machen kann: Nicht den ganzen Weg gehen und nicht beginnen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Es gibt nur zwei Fehler die man auf dem Weg zur Wahrheit machen kann: Nicht den ganzen Weg gehen und nicht beginnen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/dce1cf9c-4102-42b6-ae7e-e8e75c5d8fb7.mp3?raw=true" length="35040" type="audio/mpeg" />
+      <pubDate>Tue, 10 May 2022 19:34:27 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/dce1cf9c-4102-42b6-ae7e-e8e75c5d8fb7.mp3?raw=true</guid>
+      <dc:date>2022-05-10T19:34:27Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-6.15.7.33.27</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/de3a604b-bb7a-47d5-8e2c-343ff92decbb.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">1/3 aller Wege wurden durch Corona im Frühjahr zu Fuß zurückgelegt.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">1/3 aller Wege wurden durch Corona im Frühjahr zu Fuß zurückgelegt.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:08</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>1/3 aller Wege wurden durch Corona im Frühjahr zu Fuß zurückgelegt.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/de3a604b-bb7a-47d5-8e2c-343ff92decbb.webm?raw=true" length="1671212" type="audio/mpeg" />
+      <pubDate>Wed, 15 Jun 2022 05:33:33 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/de3a604b-bb7a-47d5-8e2c-343ff92decbb.webm?raw=true</guid>
+      <dc:date>2022-06-15T05:33:33Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-6.15.8.1.49</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/86004c9b-6671-4070-a5ac-3150f16c0296.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Die Menschen stecken in Gewohnheiten fest.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Die Menschen stecken in Gewohnheiten fest.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:06</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Die Menschen stecken in Gewohnheiten fest.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/86004c9b-6671-4070-a5ac-3150f16c0296.webm?raw=true" length="966700" type="audio/mpeg" />
+      <pubDate>Wed, 15 Jun 2022 06:01:55 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/86004c9b-6671-4070-a5ac-3150f16c0296.webm?raw=true</guid>
+      <dc:date>2022-06-15T06:01:55Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-6.30.21.7.39</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/67d11541-4cbf-4810-bf1d-ccf71cabeee1.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">2018 wurde hier einer der weltweit ersten autonomen Busse getestet.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">2018 wurde hier einer der weltweit ersten autonomen Busse getestet.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:10</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>2018 wurde hier einer der weltweit ersten autonomen Busse getestet.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/67d11541-4cbf-4810-bf1d-ccf71cabeee1.webm?raw=true" length="1900588" type="audio/mpeg" />
+      <pubDate>Thu, 30 Jun 2022 19:07:47 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/67d11541-4cbf-4810-bf1d-ccf71cabeee1.webm?raw=true</guid>
+      <dc:date>2022-06-30T19:07:47Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/fe36697b-f5e2-483c-837f-3c15f7d3da79.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">In einem älteren Bank-Werbefilm freut sich der Kunde über sein Haus, sein Auto und sein Konto</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">In einem älteren Bank-Werbefilm freut sich der Kunde über sein Haus, sein Auto und sein Konto</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>In einem älteren Bank-Werbefilm freut sich der Kunde über sein Haus, sein Auto und sein Konto</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/fe36697b-f5e2-483c-837f-3c15f7d3da79.mp3?raw=true" length="33120" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:29:10 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/fe36697b-f5e2-483c-837f-3c15f7d3da79.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:29:10Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/c409372a-2075-4fcb-b9cf-08d5aa3e285e.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Nun: All das ist bei einem durchschnittlichen Deutschen deutlich weniger wert als vor einigen Jahren</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Nun: All das ist bei einem durchschnittlichen Deutschen deutlich weniger wert als vor einigen Jahren</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Nun: All das ist bei einem durchschnittlichen Deutschen deutlich weniger wert als vor einigen Jahren</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/c409372a-2075-4fcb-b9cf-08d5aa3e285e.mp3?raw=true" length="31392" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:30:14 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/c409372a-2075-4fcb-b9cf-08d5aa3e285e.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:30:14Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a845485a-9cdf-40d2-b321-59d7eb66efdf.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Laut einer Studie des Deutschen Instituts für Wirtschaftsforschung (DIW) ist das reale Netto- vermögen der privaten Haushalte in den Jahren 2003 bis 2013 um fast 15 Prozent gesunken</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Laut einer Studie des Deutschen Instituts für Wirtschaftsforschung (DIW) ist das reale Netto- vermögen der privaten Haushalte in den Jahren 2003 bis 2013 um fast 15 Prozent gesunken</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Laut einer Studie des Deutschen Instituts für Wirtschaftsforschung (DIW) ist das reale Netto- vermögen der privaten Haushalte in den Jahren 2003 bis 2013 um fast 15 Prozent gesunken</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a845485a-9cdf-40d2-b321-59d7eb66efdf.mp3?raw=true" length="67200" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:31:49 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a845485a-9cdf-40d2-b321-59d7eb66efdf.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:31:49Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/d0c86977-cd53-4a2a-9c05-88a36f3f1138.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">2003 kam ein Haushalt in Deutschland noch auf ein Nettogesamtvermögen von rund 137 000 Euro</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">2003 kam ein Haushalt in Deutschland noch auf ein Nettogesamtvermögen von rund 137 000 Euro</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>2003 kam ein Haushalt in Deutschland noch auf ein Nettogesamtvermögen von rund 137 000 Euro</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/d0c86977-cd53-4a2a-9c05-88a36f3f1138.mp3?raw=true" length="40032" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:33:23 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/d0c86977-cd53-4a2a-9c05-88a36f3f1138.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:33:23Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/9371c055-c407-4375-8d86-c0bda98ff8e5.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">2013 waren es nur noch knapp 117000 Euro</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">2013 waren es nur noch knapp 117000 Euro</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>2013 waren es nur noch knapp 117000 Euro</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/9371c055-c407-4375-8d86-c0bda98ff8e5.mp3?raw=true" length="25824" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:34:52 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/9371c055-c407-4375-8d86-c0bda98ff8e5.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:34:52Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/ba8c6d7b-ec5c-433e-8636-2908094cbfd1.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Für den Trend sehen die Forscher zwei Hauptgründe: die schwache Wertentwicklung selbst genutzter Immobilien und das Anlagever- halten der Deutschen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Für den Trend sehen die Forscher zwei Hauptgründe: die schwache Wertentwicklung selbst genutzter Immobilien und das Anlagever- halten der Deutschen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Für den Trend sehen die Forscher zwei Hauptgründe: die schwache Wertentwicklung selbst genutzter Immobilien und das Anlagever- halten der Deutschen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/ba8c6d7b-ec5c-433e-8636-2908094cbfd1.mp3?raw=true" length="49344" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:36:16 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/ba8c6d7b-ec5c-433e-8636-2908094cbfd1.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:36:16Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/db8e0e3d-b7a1-43e0-b898-2c931b272102.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Nur in Großstadtregionen ist der Immobilien- wert in den letzten Jahren sehr gestiegen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Nur in Großstadtregionen ist der Immobilien- wert in den letzten Jahren sehr gestiegen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Nur in Großstadtregionen ist der Immobilien- wert in den letzten Jahren sehr gestiegen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/db8e0e3d-b7a1-43e0-b898-2c931b272102.mp3?raw=true" length="28608" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:37:33 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/db8e0e3d-b7a1-43e0-b898-2c931b272102.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:37:33Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/6ea4f200-40a3-445a-9835-a3e6f965bc6a.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">An vie- len anderen Orten ist der reale Wert der Häuser gesunken</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">An vie- len anderen Orten ist der reale Wert der Häuser gesunken</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>An vie- len anderen Orten ist der reale Wert der Häuser gesunken</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/6ea4f200-40a3-445a-9835-a3e6f965bc6a.mp3?raw=true" length="23040" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:39:20 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/6ea4f200-40a3-445a-9835-a3e6f965bc6a.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:39:20Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/9baa782f-2d65-4d66-8d8c-1f41e035cf7a.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Außerdem investieren viele Deutsche ihr Geld so, dass es zwar sicher ist, sie dafür aber wenig Rendite bekommen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Außerdem investieren viele Deutsche ihr Geld so, dass es zwar sicher ist, sie dafür aber wenig Rendite bekommen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Außerdem investieren viele Deutsche ihr Geld so, dass es zwar sicher ist, sie dafür aber wenig Rendite bekommen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/9baa782f-2d65-4d66-8d8c-1f41e035cf7a.mp3?raw=true" length="38304" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:40:48 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/9baa782f-2d65-4d66-8d8c-1f41e035cf7a.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:40:48Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-4.11.20.10.41</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/89f041b7-0a76-4f35-a403-be041ba2e2f9.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Dabei würden sie „oftmals nicht einmal die Inflation ausgleichen“, sagte DIW-Forscher Markus Grabka</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Dabei würden sie „oftmals nicht einmal die Inflation ausgleichen“, sagte DIW-Forscher Markus Grabka</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Dabei würden sie „oftmals nicht einmal die Inflation ausgleichen“, sagte DIW-Forscher Markus Grabka</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/89f041b7-0a76-4f35-a403-be041ba2e2f9.mp3?raw=true" length="37056" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:42:06 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/89f041b7-0a76-4f35-a403-be041ba2e2f9.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:42:06Z</dc:date>
+    </item>
+    <item>
+      <title>Der Abstand zwischen Reich und Arm ist größer als irgendwo sonst in der Eurozone, sagen die Forscher</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/52867c2b-6430-4405-ae86-c96bf6c30326.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Der Abstand zwischen Reich und Arm ist größer als irgendwo sonst in der Eurozone, sagen die Forscher</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Der Abstand zwischen Reich und Arm ist größer als irgendwo sonst in der Eurozone, sagen die Forscher</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Der Abstand zwischen Reich und Arm ist größer als irgendwo sonst in der Eurozone, sagen die Forscher</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/52867c2b-6430-4405-ae86-c96bf6c30326.mp3?raw=true" length="35328" type="audio/mpeg" />
+      <pubDate>Wed, 28 Sep 2022 07:43:21 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/52867c2b-6430-4405-ae86-c96bf6c30326.mp3?raw=true</guid>
+      <dc:date>2022-09-28T07:43:21Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-10.19.7.48.32</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/d9b2cce2-bb94-46ce-8752-f9b70078ed25.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Damit eine feinverteilung stattfinden kann.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Damit eine feinverteilung stattfinden kann.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:05</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Damit eine feinverteilung stattfinden kann.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/d9b2cce2-bb94-46ce-8752-f9b70078ed25.webm?raw=true" length="1032236" type="audio/mpeg" />
+      <pubDate>Wed, 19 Oct 2022 05:48:47 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/d9b2cce2-bb94-46ce-8752-f9b70078ed25.webm?raw=true</guid>
+      <dc:date>2022-10-19T05:48:47Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-10.19.7.55.17</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a1e29f14-9883-414f-95e9-5b26c6c7a1f8.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Z.b. Am stadtrand wo bahnhöfe nicht gut erreichbar sind.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Z.b. Am stadtrand wo bahnhöfe nicht gut erreichbar sind.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:08</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Z.b. Am stadtrand wo bahnhöfe nicht gut erreichbar sind.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a1e29f14-9883-414f-95e9-5b26c6c7a1f8.webm?raw=true" length="1523756" type="audio/mpeg" />
+      <pubDate>Wed, 19 Oct 2022 05:55:34 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a1e29f14-9883-414f-95e9-5b26c6c7a1f8.webm?raw=true</guid>
+      <dc:date>2022-10-19T05:55:34Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-10.19.8.3.2</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/8fda4b1c-0215-4a03-beb2-9269114ad1d9.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Damit die Menschen gut zu den nächsten Bahnhöfen kommen.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Damit die Menschen gut zu den nächsten Bahnhöfen kommen.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:09</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Damit die Menschen gut zu den nächsten Bahnhöfen kommen.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/8fda4b1c-0215-4a03-beb2-9269114ad1d9.webm?raw=true" length="1785900" type="audio/mpeg" />
+      <pubDate>Wed, 19 Oct 2022 06:03:13 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/8fda4b1c-0215-4a03-beb2-9269114ad1d9.webm?raw=true</guid>
+      <dc:date>2022-10-19T06:03:13Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-10.19.8.18.5</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/92f79bbb-703c-4caa-91d8-ec87b1c79554.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Und im ländlichen Raum wo die Nachfrage überschaubar ist.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Und im ländlichen Raum wo die Nachfrage überschaubar ist.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:06</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Und im ländlichen Raum wo die Nachfrage überschaubar ist.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/92f79bbb-703c-4caa-91d8-ec87b1c79554.webm?raw=true" length="1228844" type="audio/mpeg" />
+      <pubDate>Wed, 19 Oct 2022 06:18:16 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/92f79bbb-703c-4caa-91d8-ec87b1c79554.webm?raw=true</guid>
+      <dc:date>2022-10-19T06:18:16Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-1.9.21.18.32</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/cf27ed1d-803e-4268-b2c2-5ec7e3eb0627.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Wo Busse nur schwer Finanzierbar sind dass dort gegenfalls diese Art von Fahrzeug zum Einsatz kommen kann</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Wo Busse nur schwer Finanzierbar sind dass dort gegenfalls diese Art von Fahrzeug zum Einsatz kommen kann</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:04</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Wo Busse nur schwer Finanzierbar sind dass dort gegenfalls diese Art von Fahrzeug zum Einsatz kommen kann</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/cf27ed1d-803e-4268-b2c2-5ec7e3eb0627.webm?raw=true" length="2080812" type="audio/mpeg" />
+      <pubDate>Mon, 09 Jan 2023 20:20:01 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/cf27ed1d-803e-4268-b2c2-5ec7e3eb0627.webm?raw=true</guid>
+      <dc:date>2023-01-09T20:20:01Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-1.9.21.22.31</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/490f41ab-2bfd-40f9-9eda-26c4f761022e.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">In einigen Städten werden diese Busse im realen Verkehr getestet</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">In einigen Städten werden diese Busse im realen Verkehr getestet</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:08</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>In einigen Städten werden diese Busse im realen Verkehr getestet</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/490f41ab-2bfd-40f9-9eda-26c4f761022e.webm?raw=true" length="1654828" type="audio/mpeg" />
+      <pubDate>Mon, 09 Jan 2023 20:23:19 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/490f41ab-2bfd-40f9-9eda-26c4f761022e.webm?raw=true</guid>
+      <dc:date>2023-01-09T20:23:19Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-1.9.21.32.57</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/00c40114-6e15-4cf3-bfd2-a810ccdeb6e0.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Bald könnten sie dort rollen wo sich herkömmliche Fahrzeuge nicht rechen</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Bald könnten sie dort rollen wo sich herkömmliche Fahrzeuge nicht rechen</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:08</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Bald könnten sie dort rollen wo sich herkömmliche Fahrzeuge nicht rechen</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/00c40114-6e15-4cf3-bfd2-a810ccdeb6e0.webm?raw=true" length="1687596" type="audio/mpeg" />
+      <pubDate>Mon, 09 Jan 2023 20:33:43 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/00c40114-6e15-4cf3-bfd2-a810ccdeb6e0.webm?raw=true</guid>
+      <dc:date>2023-01-09T20:33:43Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-1.9.22.10.30</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/dc295ef3-cfea-4121-9121-00ed51d7aeda.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Nein, auch dafür gibt es Alternativen.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Nein, auch dafür gibt es Alternativen.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:05</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Nein, auch dafür gibt es Alternativen.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/dc295ef3-cfea-4121-9121-00ed51d7aeda.webm?raw=true" length="1081388" type="audio/mpeg" />
+      <pubDate>Mon, 09 Jan 2023 21:11:29 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/dc295ef3-cfea-4121-9121-00ed51d7aeda.webm?raw=true</guid>
+      <dc:date>2023-01-09T21:11:29Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-1.9.22.25.57</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/f523bbd5-c25d-4e12-b2fc-5c7d58ffc024.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Packet Auslieferung fast ohne schadstoff- Ausstoß (emmission)</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Packet Auslieferung fast ohne schadstoff- Ausstoß (emmission)</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:09</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Packet Auslieferung fast ohne schadstoff- Ausstoß (emmission)</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/f523bbd5-c25d-4e12-b2fc-5c7d58ffc024.webm?raw=true" length="1720364" type="audio/mpeg" />
+      <pubDate>Mon, 09 Jan 2023 21:27:34 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/f523bbd5-c25d-4e12-b2fc-5c7d58ffc024.webm?raw=true</guid>
+      <dc:date>2023-01-09T21:27:34Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-1.9.22.35.20</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/a2cc1323-499d-43d9-b9e9-99141f043037.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Die Pakete werden Zentral angeliefert wo ich mit dem Fahrrad gut hinkomme</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Die Pakete werden Zentral angeliefert wo ich mit dem Fahrrad gut hinkomme</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:06</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Die Pakete werden Zentral angeliefert wo ich mit dem Fahrrad gut hinkomme</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/a2cc1323-499d-43d9-b9e9-99141f043037.webm?raw=true" length="1261612" type="audio/mpeg" />
+      <pubDate>Mon, 09 Jan 2023 21:36:25 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/a2cc1323-499d-43d9-b9e9-99141f043037.webm?raw=true</guid>
+      <dc:date>2023-01-09T21:36:25Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-2.8.7.34.23</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/c9f11d39-f0a3-40c2-ad94-005f37740168.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ich hole die Pakete dort ab und stelle die Pakete dann zu.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ich hole die Pakete dort ab und stelle die Pakete dann zu.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:03</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Ich hole die Pakete dort ab und stelle die Pakete dann zu.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/c9f11d39-f0a3-40c2-ad94-005f37740168.webm?raw=true" length="1114156" type="audio/mpeg" />
+      <pubDate>Wed, 08 Feb 2023 06:36:13 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/c9f11d39-f0a3-40c2-ad94-005f37740168.webm?raw=true</guid>
+      <dc:date>2023-02-08T06:36:13Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-2.8.7.39.43</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/16489c78-fc31-4648-b189-56af9ac82164.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Abhollen-pickup &#xD;
+Zustellen- deliver</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Abhollen-pickup &#xD;
+Zustellen- deliver</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:08</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Abhollen-pickup &#xD;
+Zustellen- deliver</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/16489c78-fc31-4648-b189-56af9ac82164.webm?raw=true" length="1622060" type="audio/mpeg" />
+      <pubDate>Wed, 08 Feb 2023 06:40:34 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/16489c78-fc31-4648-b189-56af9ac82164.webm?raw=true</guid>
+      <dc:date>2023-02-08T06:40:34Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-2.19.20.51.57</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/ce3eea60-e318-443b-bf80-1c06786c4ea6.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Nah am zustellgebiet.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Nah am zustellgebiet.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:04</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Nah am zustellgebiet.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/ce3eea60-e318-443b-bf80-1c06786c4ea6.webm?raw=true" length="770092" type="audio/mpeg" />
+      <pubDate>Sun, 19 Feb 2023 19:52:06 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/ce3eea60-e318-443b-bf80-1c06786c4ea6.webm?raw=true</guid>
+      <dc:date>2023-02-19T19:52:06Z</dc:date>
+    </item>
+    <item>
+      <title>2 Mobiltät-2.19.20.54.6</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/ae99e4f6-b900-456e-9a52-d0e78a386027.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">An was ist das nah?</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">An was ist das nah?</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:04</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>An was ist das nah?</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/ae99e4f6-b900-456e-9a52-d0e78a386027.webm?raw=true" length="868396" type="audio/mpeg" />
+      <pubDate>Sun, 19 Feb 2023 19:54:08 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/ae99e4f6-b900-456e-9a52-d0e78a386027.webm?raw=true</guid>
+      <dc:date>2023-02-19T19:54:08Z</dc:date>
+    </item>
+    <item>
+      <title>3 Mobiltät-2.19.20.56.23</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/dd06164a-793b-4fbb-afa9-603c91b16e70.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Close to the delivery Area</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Close to the delivery Area</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:05</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Close to the delivery Area</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/dd06164a-793b-4fbb-afa9-603c91b16e70.webm?raw=true" length="1097772" type="audio/mpeg" />
+      <pubDate>Sun, 19 Feb 2023 19:56:27 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/dd06164a-793b-4fbb-afa9-603c91b16e70.webm?raw=true</guid>
+      <dc:date>2023-02-19T19:56:27Z</dc:date>
+    </item>
+    <item>
+      <title>4 Mobiltät-2.19.20.59.1</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/2ea7e944-c73e-4ca8-bee4-edc36a9d2533.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Zustellgebiet (delivery Area)</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Zustellgebiet (delivery Area)</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:06</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Zustellgebiet (delivery Area)</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/2ea7e944-c73e-4ca8-bee4-edc36a9d2533.webm?raw=true" length="1212460" type="audio/mpeg" />
+      <pubDate>Sun, 19 Feb 2023 19:59:03 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/2ea7e944-c73e-4ca8-bee4-edc36a9d2533.webm?raw=true</guid>
+      <dc:date>2023-02-19T19:59:03Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-2.19.21.7.50</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/ee612d91-5866-4a9c-8863-bf044244d121.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Viele Paketdienste setzen zunehmend Lastenräder in Städten ein.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Viele Paketdienste setzen zunehmend Lastenräder in Städten ein.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:10</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Viele Paketdienste setzen zunehmend Lastenräder in Städten ein.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/ee612d91-5866-4a9c-8863-bf044244d121.webm?raw=true" length="1900588" type="audio/mpeg" />
+      <pubDate>Sun, 19 Feb 2023 20:07:54 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/ee612d91-5866-4a9c-8863-bf044244d121.webm?raw=true</guid>
+      <dc:date>2023-02-19T20:07:54Z</dc:date>
+    </item>
+    <item>
+      <title>2 Mobiltät-2.19.21.12.58</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/34054fa9-178f-4c3d-95bc-2d9c8dedd820.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Many parcel delivery services Are increasingly using carGo bikes and cities.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Many parcel delivery services Are increasingly using carGo bikes and cities.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:09</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Many parcel delivery services Are increasingly using carGo bikes and cities.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/34054fa9-178f-4c3d-95bc-2d9c8dedd820.webm?raw=true" length="1785900" type="audio/mpeg" />
+      <pubDate>Sun, 19 Feb 2023 20:12:59 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/34054fa9-178f-4c3d-95bc-2d9c8dedd820.webm?raw=true</guid>
+      <dc:date>2023-02-19T20:12:59Z</dc:date>
+    </item>
+    <item>
+      <title>3 Mobiltät-2.19.21.14.40</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/3922ab2b-f2fc-43c0-82da-b68fdae033e2.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Was machen viele Paketdienste?</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Was machen viele Paketdienste?</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:03</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Was machen viele Paketdienste?</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/3922ab2b-f2fc-43c0-82da-b68fdae033e2.webm?raw=true" length="671788" type="audio/mpeg" />
+      <pubDate>Sun, 19 Feb 2023 20:14:41 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/3922ab2b-f2fc-43c0-82da-b68fdae033e2.webm?raw=true</guid>
+      <dc:date>2023-02-19T20:14:41Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-2.20.22.13.20</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/9e7f16d9-36c9-4f4e-8604-9a7e62347160.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Wieder ein Baustein um motorisierten Verkehr zu reduzieren.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Wieder ein Baustein um motorisierten Verkehr zu reduzieren.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:07</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Wieder ein Baustein um motorisierten Verkehr zu reduzieren.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/9e7f16d9-36c9-4f4e-8604-9a7e62347160.webm?raw=true" length="1392684" type="audio/mpeg" />
+      <pubDate>Mon, 20 Feb 2023 21:13:21 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/9e7f16d9-36c9-4f4e-8604-9a7e62347160.webm?raw=true</guid>
+      <dc:date>2023-02-20T21:13:21Z</dc:date>
+    </item>
+    <item>
+      <title>1 Mobiltät-2.20.22.15.0</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/997376f2-c22e-444d-b6cf-e6007c702fc6.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Another building block for reducing motorized traffic.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Another building block for reducing motorized traffic.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:06</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Another building block for reducing motorized traffic.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/997376f2-c22e-444d-b6cf-e6007c702fc6.webm?raw=true" length="1277996" type="audio/mpeg" />
+      <pubDate>Mon, 20 Feb 2023 21:15:01 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/997376f2-c22e-444d-b6cf-e6007c702fc6.webm?raw=true</guid>
+      <dc:date>2023-02-20T21:15:01Z</dc:date>
+    </item>
+    <item>
+      <title>2 Mobiltät-2.20.22.18.22</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/36fa0685-be7c-48ff-8ef5-3fb2d3c8146a.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Was ist das bzw.motorisierten Verkehr.?</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Was ist das bzw.motorisierten Verkehr.?</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:05</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Was ist das bzw.motorisierten Verkehr.?</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/36fa0685-be7c-48ff-8ef5-3fb2d3c8146a.webm?raw=true" length="1081388" type="audio/mpeg" />
+      <pubDate>Mon, 20 Feb 2023 21:18:22 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/36fa0685-be7c-48ff-8ef5-3fb2d3c8146a.webm?raw=true</guid>
+      <dc:date>2023-02-20T21:18:22Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-2.21.20.34.1</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/0d766335-f4ed-4675-bb19-2cefb573d493.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Aber bei zunehmendem Fahrrad Verkehr braucht es bessere Radwege.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Aber bei zunehmendem Fahrrad Verkehr braucht es bessere Radwege.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:08</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Aber bei zunehmendem Fahrrad Verkehr braucht es bessere Radwege.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/0d766335-f4ed-4675-bb19-2cefb573d493.webm?raw=true" length="1556524" type="audio/mpeg" />
+      <pubDate>Tue, 21 Feb 2023 19:34:03 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/0d766335-f4ed-4675-bb19-2cefb573d493.webm?raw=true</guid>
+      <dc:date>2023-02-21T19:34:03Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-2.21.20.35.57</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/99e40d7b-8be5-40ba-97d9-02f991527380.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">But with increasing bicycle traffic better bike paths I needed</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">But with increasing bicycle traffic better bike paths I needed</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:06</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>But with increasing bicycle traffic better bike paths I needed</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/99e40d7b-8be5-40ba-97d9-02f991527380.webm?raw=true" length="1179692" type="audio/mpeg" />
+      <pubDate>Tue, 21 Feb 2023 19:35:57 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/99e40d7b-8be5-40ba-97d9-02f991527380.webm?raw=true</guid>
+      <dc:date>2023-02-21T19:35:57Z</dc:date>
+    </item>
+    <item>
+      <title>2 Mobiltät-2.21.20.37.26</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/e1bee848-f997-42fd-8d56-5f5d7d068a28.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Was braucht es bei zunehmendem Fahrradverkehr?,</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Was braucht es bei zunehmendem Fahrradverkehr?,</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:05</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Was braucht es bei zunehmendem Fahrradverkehr?,</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/e1bee848-f997-42fd-8d56-5f5d7d068a28.webm?raw=true" length="1097772" type="audio/mpeg" />
+      <pubDate>Tue, 21 Feb 2023 19:37:27 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/e1bee848-f997-42fd-8d56-5f5d7d068a28.webm?raw=true</guid>
+      <dc:date>2023-02-21T19:37:27Z</dc:date>
+    </item>
+    <item>
+      <title>3 Mobiltät-2.21.20.39.9</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/dc059fdc-c8c7-4b4c-b4b0-146372241e5f.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Bei zunehmendem _ wiTh increasing</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Bei zunehmendem _ wiTh increasing</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:06</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Bei zunehmendem _ wiTh increasing</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/dc059fdc-c8c7-4b4c-b4b0-146372241e5f.webm?raw=true" length="1196076" type="audio/mpeg" />
+      <pubDate>Tue, 21 Feb 2023 19:39:12 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/dc059fdc-c8c7-4b4c-b4b0-146372241e5f.webm?raw=true</guid>
+      <dc:date>2023-02-21T19:39:12Z</dc:date>
+    </item>
+    <item>
+      <title>Mobiltät-2.21.20.56.24</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/e86ff235-471e-4d06-8cb5-67a4d1037086.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Dreharbeiten .mit Rad klappt zwar aber es gibt wenige Radwege und viele brenzlige Situationen.</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Dreharbeiten .mit Rad klappt zwar aber es gibt wenige Radwege und viele brenzlige Situationen.</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:09</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Dreharbeiten .mit Rad klappt zwar aber es gibt wenige Radwege und viele brenzlige Situationen.</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/e86ff235-471e-4d06-8cb5-67a4d1037086.webm?raw=true" length="1802284" type="audio/mpeg" />
+      <pubDate>Tue, 21 Feb 2023 19:56:42 GMT</pubDate>
+      <guid>https://github.com/balabanmario/challenge2018/raw/master/e86ff235-471e-4d06-8cb5-67a4d1037086.webm?raw=true</guid>
+      <dc:date>2023-02-21T19:56:42Z</dc:date>
+    </item>
+  </channel>
+</rss>
