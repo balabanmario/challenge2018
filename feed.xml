@@ -1729,8 +1729,23 @@ Zustellen- deliver</description>
       <description>Ungeachtet%20der%20Proteste%20von%20Umweltsch%C3%BCtzern%20hat%20Brasilien%20einen%20ausgemusterten%20Flugzeugtr%C3%A4ger%20im%20Atlantik%20versenkt</description>
       <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/1e1ae97f-face-4abc-99ac-4f5431328307.mp3?raw=true" length="105312" type="audio/mpeg" />
       <pubDate>Wed, 22 Feb 2023 20:30:29 GMT</pubDate>
-      <guid>https://github.com/balabanmario/challenge2018/raw/master/1e1ae97f-face-4abc-99ac-4f5431328307.mp3?raw=true</guid>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/1e1ae97f-face-4abc-99ac-4f5431328307.mp3?raw=true</guid>
       <dc:date>2023-02-22T20:30:29Z</dc:date>
+    </item>
+    <item>
+      <title>1 Nachrichten-2.22.21.30.25</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/15c6d087-04f3-43e4-8e25-c350c4a5ab2c.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ungeachtet der Proteste von Umweltschützern hat Brasilien einen ausgemusterten Flugzeugträger im Atlantik versenkt</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ungeachtet der Proteste von Umweltschützern hat Brasilien einen ausgemusterten Flugzeugträger im Atlantik versenkt</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Ungeachtet der Proteste von Umweltschützern hat Brasilien einen ausgemusterten Flugzeugträger im Atlantik versenkt</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/15c6d087-04f3-43e4-8e25-c350c4a5ab2c.mp3?raw=true" length="39552" type="audio/mpeg" />
+      <pubDate>Wed, 22 Feb 2023 20:34:00 GMT</pubDate>
+      <guid>https://github.com/balabanmario/challenge2018/raw/master/15c6d087-04f3-43e4-8e25-c350c4a5ab2c.mp3?raw=true</guid>
+      <dc:date>2023-02-22T20:34:00Z</dc:date>
     </item>
   </channel>
 </rss>
