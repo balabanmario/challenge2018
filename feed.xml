@@ -1732,20 +1732,5 @@ Zustellen- deliver</description>
       <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/15c6d087-04f3-43e4-8e25-c350c4a5ab2c.mp3?raw=true</guid>
       <dc:date>2023-02-22T20:34:00Z</dc:date>
     </item>
-    <item>
-      <title>Nachrichten-2.23.21.30.25</title>
-      <link>https://github.com/balabanmario/challenge2018/raw/master/b44e0c66-ed2c-45a0-9900-04b07173a270.mp3?raw=true</link>
-      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
-      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
-      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ich bin ein dop test "mith" einfuhrungszeichen</itunes:subtitle>
-      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Ich bin ein dop test "mith" einfuhrungszeichen</itunes:summary>
-      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
-      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
-      <description>Ich bin ein dop test "mith" einfuhrungszeichen</description>
-      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/b44e0c66-ed2c-45a0-9900-04b07173a270.mp3?raw=true" length="18624" type="audio/mpeg" />
-      <pubDate>Thu, 23 Feb 2023 20:30:40 GMT</pubDate>
-      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/b44e0c66-ed2c-45a0-9900-04b07173a270.mp3?raw=true</guid>
-      <dc:date>2023-02-23T20:30:40Z</dc:date>
-    </item>
   </channel>
 </rss>
