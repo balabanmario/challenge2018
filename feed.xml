@@ -1849,8 +1849,23 @@ Zustellen- deliver</description>
       <description>At a special session in New York, 141 of the 193 UN member states supported a corresponding resolution</description>
       <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/0d06a999-4862-43e9-bc85-9f1403501df7.mp3?raw=true" length="40224" type="audio/mpeg" />
       <pubDate>Sun, 26 Feb 2023 15:21:38 GMT</pubDate>
-      <guid>https://github.com/balabanmario/challenge2018/raw/master/0d06a999-4862-43e9-bc85-9f1403501df7.mp3?raw=true</guid>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/0d06a999-4862-43e9-bc85-9f1403501df7.mp3?raw=true</guid>
       <dc:date>2023-02-26T15:21:38Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-2.26.16.21.57</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/4a1e1e1d-9ed4-449d-8538-09319c01b087.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Lediglich Belarus, Nordkorea, Eritrea, Mali, Nicaragua und Syrien stimmten gemeinsam mit Russland gegen die Vorlage</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Lediglich Belarus, Nordkorea, Eritrea, Mali, Nicaragua und Syrien stimmten gemeinsam mit Russland gegen die Vorlage</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Lediglich Belarus, Nordkorea, Eritrea, Mali, Nicaragua und Syrien stimmten gemeinsam mit Russland gegen die Vorlage</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/4a1e1e1d-9ed4-449d-8538-09319c01b087.mp3?raw=true" length="55200" type="audio/mpeg" />
+      <pubDate>Sun, 26 Feb 2023 15:21:59 GMT</pubDate>
+      <guid>https://github.com/balabanmario/challenge2018/raw/master/4a1e1e1d-9ed4-449d-8538-09319c01b087.mp3?raw=true</guid>
+      <dc:date>2023-02-26T15:21:59Z</dc:date>
     </item>
   </channel>
 </rss>
