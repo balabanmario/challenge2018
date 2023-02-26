@@ -1939,8 +1939,23 @@ Zustellen- deliver</description>
       <description>The world wants peace, said Federal Foreign Minister Annalena Baerbock after the vote</description>
       <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/828bb052-cd4c-4923-b375-49f034765e4a.mp3?raw=true" length="27456" type="audio/mpeg" />
       <pubDate>Sun, 26 Feb 2023 15:23:36 GMT</pubDate>
-      <guid>https://github.com/balabanmario/challenge2018/raw/master/828bb052-cd4c-4923-b375-49f034765e4a.mp3?raw=true</guid>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/828bb052-cd4c-4923-b375-49f034765e4a.mp3?raw=true</guid>
       <dc:date>2023-02-26T15:23:36Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-2.26.16.23.56</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/115e970c-529c-42c5-8f5c-7454bbbe16b9.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Russland sei "mit seinem Kriegskurs genauso isoliert wie vor einem Jahr"</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Russland sei "mit seinem Kriegskurs genauso isoliert wie vor einem Jahr"</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Russland sei "mit seinem Kriegskurs genauso isoliert wie vor einem Jahr"</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/115e970c-529c-42c5-8f5c-7454bbbe16b9.mp3?raw=true" length="27840" type="audio/mpeg" />
+      <pubDate>Sun, 26 Feb 2023 15:23:58 GMT</pubDate>
+      <guid>https://github.com/balabanmario/challenge2018/raw/master/115e970c-529c-42c5-8f5c-7454bbbe16b9.mp3?raw=true</guid>
+      <dc:date>2023-02-26T15:23:58Z</dc:date>
     </item>
   </channel>
 </rss>
