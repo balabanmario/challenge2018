@@ -1834,8 +1834,23 @@ Zustellen- deliver</description>
       <description>In einer Sondersitzung in New York unterstützten 141 der 193 UN-Mitgliedstaaten eine entsprechende Resolution</description>
       <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/5ce0c7dc-2b88-4127-a09b-2138c0ff4b74.mp3?raw=true" length="48192" type="audio/mpeg" />
       <pubDate>Sun, 26 Feb 2023 15:21:16 GMT</pubDate>
-      <guid>https://github.com/balabanmario/challenge2018/raw/master/5ce0c7dc-2b88-4127-a09b-2138c0ff4b74.mp3?raw=true</guid>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/5ce0c7dc-2b88-4127-a09b-2138c0ff4b74.mp3?raw=true</guid>
       <dc:date>2023-02-26T15:21:16Z</dc:date>
+    </item>
+    <item>
+      <title>1 Nachrichten-2.26.16.21.14</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/0d06a999-4862-43e9-bc85-9f1403501df7.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">At a special session in New York, 141 of the 193 UN member states supported a corresponding resolution</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">At a special session in New York, 141 of the 193 UN member states supported a corresponding resolution</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>At a special session in New York, 141 of the 193 UN member states supported a corresponding resolution</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/0d06a999-4862-43e9-bc85-9f1403501df7.mp3?raw=true" length="40224" type="audio/mpeg" />
+      <pubDate>Sun, 26 Feb 2023 15:21:38 GMT</pubDate>
+      <guid>https://github.com/balabanmario/challenge2018/raw/master/0d06a999-4862-43e9-bc85-9f1403501df7.mp3?raw=true</guid>
+      <dc:date>2023-02-26T15:21:38Z</dc:date>
     </item>
   </channel>
 </rss>
