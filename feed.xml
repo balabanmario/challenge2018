@@ -1744,8 +1744,23 @@ Zustellen- deliver</description>
       <description>Hallo ich bin ein test</description>
       <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/eb0887de-b4d0-4b45-926d-9b5b92cbb54e.mp3?raw=true" length="9792" type="audio/mpeg" />
       <pubDate>Sun, 26 Feb 2023 12:33:56 GMT</pubDate>
-      <guid>https://github.com/balabanmario/challenge2018/raw/master/eb0887de-b4d0-4b45-926d-9b5b92cbb54e.mp3?raw=true</guid>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/eb0887de-b4d0-4b45-926d-9b5b92cbb54e.mp3?raw=true</guid>
       <dc:date>2023-02-26T12:33:56Z</dc:date>
+    </item>
+    <item>
+      <title>1 Nachrichten-2.26.13.33.45</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/b20be30e-70f2-4022-8c90-948ba7a30d8b.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Hello I am a test</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Hello I am a test</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Hello I am a test</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/b20be30e-70f2-4022-8c90-948ba7a30d8b.mp3?raw=true" length="8544" type="audio/mpeg" />
+      <pubDate>Sun, 26 Feb 2023 12:34:58 GMT</pubDate>
+      <guid>https://github.com/balabanmario/challenge2018/raw/master/b20be30e-70f2-4022-8c90-948ba7a30d8b.mp3?raw=true</guid>
+      <dc:date>2023-02-26T12:34:58Z</dc:date>
     </item>
   </channel>
 </rss>
