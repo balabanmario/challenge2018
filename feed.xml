@@ -1894,8 +1894,23 @@ Zustellen- deliver</description>
       <description>Eine Reihe von Staaten enthielt sich, darunter China und Indien</description>
       <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/642d8dce-9329-4946-8e39-001c6af3f18d.mp3?raw=true" length="23520" type="audio/mpeg" />
       <pubDate>Sun, 26 Feb 2023 15:22:36 GMT</pubDate>
-      <guid>https://github.com/balabanmario/challenge2018/raw/master/642d8dce-9329-4946-8e39-001c6af3f18d.mp3?raw=true</guid>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/642d8dce-9329-4946-8e39-001c6af3f18d.mp3?raw=true</guid>
       <dc:date>2023-02-26T15:22:36Z</dc:date>
+    </item>
+    <item>
+      <title>1 Nachrichten-2.26.16.22.35</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/4a18ff59-9bc3-4e75-b462-495b89112756.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">A number of countries abstained, including China and India</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">A number of countries abstained, including China and India</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>A number of countries abstained, including China and India</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/4a18ff59-9bc3-4e75-b462-495b89112756.mp3?raw=true" length="18432" type="audio/mpeg" />
+      <pubDate>Sun, 26 Feb 2023 15:22:55 GMT</pubDate>
+      <guid>https://github.com/balabanmario/challenge2018/raw/master/4a18ff59-9bc3-4e75-b462-495b89112756.mp3?raw=true</guid>
+      <dc:date>2023-02-26T15:22:55Z</dc:date>
     </item>
   </channel>
 </rss>
