@@ -1789,8 +1789,23 @@ Zustellen- deliver</description>
       <description>das ist ein test</description>
       <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/982d61b9-e759-4f22-ae55-4e7ee33290aa.webm?raw=true" length="25179" type="audio/mpeg" />
       <pubDate>Sun, 26 Feb 2023 15:14:37 GMT</pubDate>
-      <guid>https://github.com/balabanmario/challenge2018/raw/master/982d61b9-e759-4f22-ae55-4e7ee33290aa.webm?raw=true</guid>
+      <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/982d61b9-e759-4f22-ae55-4e7ee33290aa.webm?raw=true</guid>
       <dc:date>2023-02-26T15:14:37Z</dc:date>
+    </item>
+    <item>
+      <title>Nachrichten-2.26.16.20.14</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/5384ce19-0c51-435c-9bb0-8b453f8c23db.mp3?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Zum Jahrestag des russischen Einmarschs in die Ukraine hat die UN-Vollversammlung mit breiter Mehrheit eine Friedenslösung und einen Truppenabzug Russlands gefordert</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Zum Jahrestag des russischen Einmarschs in die Ukraine hat die UN-Vollversammlung mit breiter Mehrheit eine Friedenslösung und einen Truppenabzug Russlands gefordert</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:00</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>Zum Jahrestag des russischen Einmarschs in die Ukraine hat die UN-Vollversammlung mit breiter Mehrheit eine Friedenslösung und einen Truppenabzug Russlands gefordert</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/5384ce19-0c51-435c-9bb0-8b453f8c23db.mp3?raw=true" length="51936" type="audio/mpeg" />
+      <pubDate>Sun, 26 Feb 2023 15:20:16 GMT</pubDate>
+      <guid>https://github.com/balabanmario/challenge2018/raw/master/5384ce19-0c51-435c-9bb0-8b453f8c23db.mp3?raw=true</guid>
+      <dc:date>2023-02-26T15:20:16Z</dc:date>
     </item>
   </channel>
 </rss>
