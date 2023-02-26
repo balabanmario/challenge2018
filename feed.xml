@@ -1777,5 +1777,20 @@ Zustellen- deliver</description>
       <guid isPermaLink="false">https://github.com/balabanmario/challenge2018/raw/master/7026d592-c243-40fb-95ea-962383436b66.mp3?raw=true</guid>
       <dc:date>2023-02-26T12:35:33Z</dc:date>
     </item>
+    <item>
+      <title>Mobiltät-2.26.15.44.43</title>
+      <link>https://github.com/balabanmario/challenge2018/raw/master/15b737e7-6950-439f-9bfc-e12307d9abd9.webm?raw=true</link>
+      <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">IamTheAuthor</itunes:author>
+      <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">No</itunes:explicit>
+      <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">ich bin ein test von recording</itunes:subtitle>
+      <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">ich bin ein test von recording</itunes:summary>
+      <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:00:01</itunes:duration>
+      <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Here are the keywords</itunes:keywords>
+      <description>ich bin ein test von recording</description>
+      <enclosure url="https://github.com/balabanmario/challenge2018/raw/master/15b737e7-6950-439f-9bfc-e12307d9abd9.webm?raw=true" length="6959" type="audio/mpeg" />
+      <pubDate>Sun, 26 Feb 2023 14:44:43 GMT</pubDate>
+      <guid>https://github.com/balabanmario/challenge2018/raw/master/15b737e7-6950-439f-9bfc-e12307d9abd9.webm?raw=true</guid>
+      <dc:date>2023-02-26T14:44:43Z</dc:date>
+    </item>
   </channel>
 </rss>
